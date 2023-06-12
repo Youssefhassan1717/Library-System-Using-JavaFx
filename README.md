@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=aaieuB-zHxA&t=10s">
+  <a href="https://www.youtube.com/watch?v=aaieuB-zHxA">
     <img src="https://example.com/library-system-demo-thumbnail.png" alt="Library System Demo">
   </a>
 </p>

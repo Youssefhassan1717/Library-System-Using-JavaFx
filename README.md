@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://example.com/library-system-banner.png" alt="Library System Banner">
-</p>
+
 
 <h1 align="center">Library System</h1>
 
